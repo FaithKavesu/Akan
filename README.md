@@ -1,4 +1,4 @@
-# Akan
+# Akan Names
 #### This ., {Date of current version 14/02/2002}.
 #### By **{Faith Kavesu}**
 ## Description
