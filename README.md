@@ -11,6 +11,8 @@ This projects is about me and the various projects I have been working on using 
 * HTML
 * CSS
 * JavaScript
+## Link
+https://faithkavesu.github.io/Akan/.
 ## Support and contact details
 email : kavesumulili@gmail.com
 ### License
